@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="9703" started-at="2018-07-17T14:22:37Z" finished-at="2018-07-17T14:22:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9703" started-at="2018-07-17T14:22:37Z" finished-at="2018-07-17T14:22:47Z">
+      <class name="app.autoamtion.MavenAutomation.Recruiting.Test_Job_Requisition_Template">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:app.autoamtion.MavenAutomation.Recruiting.Test_Job_Requisition_Template@4439f31e]" name="setUp" is-config="true" duration-ms="4040" started-at="2018-07-17T19:52:37Z" finished-at="2018-07-17T19:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Template()[pri:0, instance:app.autoamtion.MavenAutomation.Recruiting.Test_Job_Requisition_Template@4439f31e]" name="Template" duration-ms="5241" started-at="2018-07-17T19:52:41Z" finished-at="2018-07-17T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Template -->
+      </class> <!-- app.autoamtion.MavenAutomation.Recruiting.Test_Job_Requisition_Template -->
+      <class name="app.autoamtion.MavenAutomation.registrationPage.API_Login_Test">
+        <test-method status="PASS" signature="TestAPICreateGroup()[pri:0, instance:app.autoamtion.MavenAutomation.registrationPage.API_Login_Test@5dfcfece]" name="TestAPICreateGroup" duration-ms="412" started-at="2018-07-17T19:52:47Z" finished-at="2018-07-17T19:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAPICreateGroup -->
+      </class> <!-- app.autoamtion.MavenAutomation.registrationPage.API_Login_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

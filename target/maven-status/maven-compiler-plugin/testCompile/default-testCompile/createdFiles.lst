@@ -1,0 +1,8 @@
+app\autoamtion\MavenAutomation\registrationPage\API_Login_Test.class
+app\autoamtion\MavenAutomation\JobTemplateLocators\JobRequisitionTemplateLocators.class
+app\autoamtion\MavenAutomation\Recruiting\Test_Job_Requisition_Template.class
+app\autoamtion\MavenAutomation\registrationPage\TC002_Add_Goal_And_Perform_Actions_On_Goal.class
+app\autoamtion\MavenAutomation\registrationPage\TC004_Create_New_Skill.class
+app\autoamtion\MavenAutomation\registrationPage\TC003_Leave_An_Impression.class
+app\autoamtion\MavenAutomation\Recruiting\Job_Requisition_Template_Resource.class
+app\autoamtion\MavenAutomation\registrationPage\TC001_Verify_Login_Page.class

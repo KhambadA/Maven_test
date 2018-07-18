@@ -1,0 +1,7 @@
+app\autoamtion\MavenAutomation\generateRandomData\GenerateData.class
+app\autoamtion\MavenAutomation\testBase\TestBase.class
+app\autoamtion\MavenAutomation\Goals\Goal_My_Profile_Resource.class
+app\autoamtion\MavenAutomation\uiActions\HomePage.class
+app\autoamtion\MavenAutomation\App.class
+app\autoamtion\MavenAutomation\Skills\Skill_My_Profile.class
+app\autoamtion\MavenAutomation\Impression\Impression_My_Team.class

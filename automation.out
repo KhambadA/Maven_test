@@ -1,0 +1,287 @@
+2018-01-20 10:09:42 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-01-20 10:09:42 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-01-20 10:14:18 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-01-20 10:14:18 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-01-20 10:54:32 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-01-20 10:54:32 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-01-20 10:54:44 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-01-20 10:55:49 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-01-20 10:55:49 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-01-20 10:56:11 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:31:37 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-02-01 09:31:37 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-02-01 09:31:40 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:50:41 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-02-01 09:50:41 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-02-01 09:50:44 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:52:21 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-02-01 09:52:21 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-02-01 09:52:24 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:55:32 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-02-01 09:55:32 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-02-01 09:55:35 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:56:22 INFO  TC001_Verify_Login_Page:42 - =============Starting======================
+2018-02-01 09:56:22 INFO  TC001_Verify_Login_Page:44 - Calling Login Method
+2018-02-01 09:56:25 INFO  TC001_Verify_Login_Page:46 - ==============Finished===================
+2018-02-01 09:57:30 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 09:57:30 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 09:57:34 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 09:57:35 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 10:22:30 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 10:22:30 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 10:22:35 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 10:22:35 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 10:24:06 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 10:24:06 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 10:24:08 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 10:24:08 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 10:24:28 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 10:24:28 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 10:24:32 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 10:24:32 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 17:37:00 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 17:37:00 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 17:37:08 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 17:37:17 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 17:39:20 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 17:39:20 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 17:39:28 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 17:39:36 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 17:40:51 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 17:40:51 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 17:40:59 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 17:40:59 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 18:15:03 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 18:15:03 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 18:15:08 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 18:15:21 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 18:16:00 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 18:16:00 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 18:16:07 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 18:16:07 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-01 18:17:17 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-01 18:17:17 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-01 18:17:23 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-01 18:17:24 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-08 18:22:19 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-08 18:22:19 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-08 18:22:27 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-08 18:22:37 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-08 18:23:54 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-08 18:23:54 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-08 18:24:03 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-08 18:24:03 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-09 05:49:33 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-09 05:49:33 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-09 05:49:52 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-09 05:49:52 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-09 05:52:13 INFO  TestBase:43 - =============Starting======================
+2018-02-09 05:52:13 INFO  TestBase:45 - Calling Login Method
+2018-02-09 05:52:27 INFO  TestBase:47 - ==============Finished===================
+2018-02-09 05:52:27 INFO  TestBase:49 - Clicked on NAvigation Menu
+2018-02-09 05:53:56 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-09 05:53:56 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-09 05:54:10 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-09 05:54:10 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-09 05:57:39 INFO  TC001_Verify_Login_Page:44 - =============Starting======================
+2018-02-09 05:57:39 INFO  TC001_Verify_Login_Page:46 - Calling Login Method
+2018-02-09 05:57:52 INFO  TC001_Verify_Login_Page:48 - ==============Finished===================
+2018-02-09 05:57:52 INFO  TC001_Verify_Login_Page:50 - Clicked on NAvigation Menu
+2018-02-09 05:58:42 INFO  TestBase:43 - =============Starting======================
+2018-02-09 05:58:42 INFO  TestBase:45 - Calling Login Method
+2018-02-09 05:59:00 INFO  TestBase:47 - ==============Finished===================
+2018-02-09 05:59:00 INFO  TestBase:49 - Clicked on NAvigation Menu
+2018-02-09 06:06:05 INFO  TestBase:46 - =============Starting======================
+2018-02-09 06:06:05 INFO  TestBase:48 - Calling Login Method
+2018-02-09 06:06:21 INFO  TestBase:50 - ==============Finished===================
+2018-02-09 06:06:22 INFO  TestBase:52 - Clicked on NAvigation Menu
+2018-02-09 06:07:15 INFO  TestBase:46 - =============Starting======================
+2018-02-09 06:07:15 INFO  TestBase:48 - Calling Login Method
+2018-02-09 06:07:31 INFO  TestBase:50 - ==============Finished===================
+2018-02-09 06:07:32 INFO  TestBase:52 - Clicked on NAvigation Menu
+2018-02-09 06:12:53 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:12:53 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:13:07 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:13:07 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:13:59 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:13:59 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:14:05 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:14:05 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:17:37 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:17:37 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:17:42 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:17:42 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:17:59 INFO  TestBase:56 - Clicked on Manage Job Requisition
+2018-02-09 06:18:00 INFO  TestBase:58 - Clicked on Job Requisition Template
+2018-02-09 06:21:13 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:21:13 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:21:19 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:21:19 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:21:47 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:21:47 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:21:59 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:22:00 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:22:42 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:22:43 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:22:49 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:22:49 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:23:05 INFO  TestBase:56 - Clicked on Manage Job Requisition
+2018-02-09 06:23:07 INFO  TestBase:58 - Clicked on Job Requisition Template
+2018-02-09 06:27:50 INFO  TestBase:47 - =============Starting======================
+2018-02-09 06:27:50 INFO  TestBase:49 - Calling Login Method
+2018-02-09 06:27:56 INFO  TestBase:51 - ==============Finished===================
+2018-02-09 06:27:56 INFO  TestBase:53 - Clicked on NAvigation Menu
+2018-02-09 06:28:10 INFO  TestBase:56 - Clicked on Manage Job Requisition
+2018-02-09 06:28:12 INFO  TestBase:58 - Clicked on Job Requisition Template
+2018-02-09 06:34:47 INFO  TestBase:54 - =============Starting======================
+2018-02-09 06:34:47 INFO  TestBase:56 - Calling Login Method
+2018-02-09 06:36:22 INFO  TestBase:54 - =============Starting======================
+2018-02-09 06:36:22 INFO  TestBase:56 - Calling Login Method
+2018-02-09 06:36:29 INFO  TestBase:58 - ==============Finished===================
+2018-02-09 06:36:29 INFO  TestBase:60 - Clicked on NAvigation Menu
+2018-02-09 06:36:43 INFO  TestBase:63 - Clicked on Manage Job Requisition
+2018-02-09 06:36:45 INFO  TestBase:65 - Clicked on Job Requisition Template
+2018-02-09 08:19:18 INFO  TestBase:54 - =============Starting======================
+2018-02-09 08:19:18 INFO  TestBase:56 - Calling Login Method
+2018-02-09 08:19:26 INFO  TestBase:58 - ==============Finished===================
+2018-02-09 08:19:26 INFO  TestBase:60 - Clicked on NAvigation Menu
+2018-02-09 08:19:31 INFO  TestBase:63 - Clicked on Manage Job Requisition
+2018-02-09 08:19:31 INFO  TestBase:65 - Clicked on Job Requisition Template
+2018-02-09 08:25:32 INFO  TestBase:54 - =============Starting======================
+2018-02-09 08:25:32 INFO  TestBase:56 - Calling Login Method
+2018-02-09 08:25:42 INFO  TestBase:58 - ==============Finished===================
+2018-02-09 08:25:42 INFO  TestBase:60 - Clicked on NAvigation Menu
+2018-02-09 08:25:45 INFO  TestBase:63 - Clicked on Manage Job Requisition
+2018-02-09 08:25:46 INFO  TestBase:65 - Clicked on Job Requisition Template
+2018-02-09 08:28:29 INFO  TestBase:54 - =============Starting======================
+2018-02-09 08:28:29 INFO  TestBase:56 - Calling Login Method
+2018-02-09 08:28:36 INFO  TestBase:58 - ==============Finished===================
+2018-02-09 08:28:37 INFO  TestBase:60 - Clicked on NAvigation Menu
+2018-02-09 08:28:40 INFO  TestBase:63 - Clicked on Manage Job Requisition
+2018-02-09 08:28:40 INFO  TestBase:65 - Clicked on Job Requisition Template
+2018-02-09 08:33:44 INFO  TestBase:55 - =============Starting======================
+2018-02-09 08:33:44 INFO  TestBase:57 - Calling Login Method
+2018-02-09 08:33:53 INFO  TestBase:59 - ==============Finished===================
+2018-02-09 08:33:53 INFO  TestBase:61 - Clicked on NAvigation Menu
+2018-02-09 08:33:56 INFO  TestBase:64 - Clicked on Manage Job Requisition
+2018-02-09 08:33:57 INFO  TestBase:66 - Clicked on Job Requisition Template
+2018-02-09 08:36:22 INFO  TestBase:55 - =============Starting======================
+2018-02-09 08:36:22 INFO  TestBase:57 - Calling Login Method
+2018-02-09 08:36:26 INFO  TestBase:59 - ==============Finished===================
+2018-02-09 08:36:26 INFO  TestBase:61 - Clicked on NAvigation Menu
+2018-02-09 08:36:30 INFO  TestBase:64 - Clicked on Manage Job Requisition
+2018-02-09 08:36:30 INFO  TestBase:66 - Clicked on Job Requisition Template
+2018-02-09 08:38:26 INFO  TestBase:55 - =============Starting======================
+2018-02-09 08:38:26 INFO  TestBase:57 - Calling Login Method
+2018-02-09 08:38:30 INFO  TestBase:59 - ==============Finished===================
+2018-02-09 08:38:30 INFO  TestBase:61 - Clicked on NAvigation Menu
+2018-02-09 08:38:33 INFO  TestBase:64 - Clicked on Manage Job Requisition
+2018-02-09 08:38:33 INFO  TestBase:66 - Clicked on Job Requisition Template
+2018-02-09 08:40:10 INFO  TestBase:55 - =============Starting======================
+2018-02-09 08:40:10 INFO  TestBase:57 - Calling Login Method
+2018-02-09 08:40:16 INFO  TestBase:59 - ==============Finished===================
+2018-02-09 08:40:17 INFO  TestBase:61 - Clicked on NAvigation Menu
+2018-02-09 08:40:20 INFO  TestBase:64 - Clicked on Manage Job Requisition
+2018-02-09 08:40:20 INFO  TestBase:66 - Clicked on Job Requisition Template
+2018-02-09 08:45:47 INFO  TestBase:58 - =============Starting======================
+2018-02-09 08:45:47 INFO  TestBase:60 - Calling Login Method
+2018-02-09 08:45:50 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 08:45:50 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 08:45:54 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 08:45:55 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 08:46:45 INFO  TestBase:58 - =============Starting======================
+2018-02-09 08:46:45 INFO  TestBase:60 - Calling Login Method
+2018-02-09 08:46:52 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 08:46:52 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 08:46:56 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 08:46:56 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 08:49:00 INFO  TestBase:58 - =============Starting======================
+2018-02-09 08:49:00 INFO  TestBase:60 - Calling Login Method
+2018-02-09 08:49:06 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 08:49:07 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 08:49:10 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 08:49:10 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 09:10:10 INFO  TestBase:58 - =============Starting======================
+2018-02-09 09:10:10 INFO  TestBase:60 - Calling Login Method
+2018-02-09 09:10:19 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 09:10:20 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 09:10:24 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 09:10:24 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 09:27:12 INFO  TestBase:58 - =============Starting======================
+2018-02-09 09:27:12 INFO  TestBase:60 - Calling Login Method
+2018-02-09 09:27:15 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 09:27:15 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 09:27:19 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 09:27:19 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 09:28:41 INFO  TestBase:58 - =============Starting======================
+2018-02-09 09:28:41 INFO  TestBase:60 - Calling Login Method
+2018-02-09 09:28:46 INFO  TestBase:62 - ==============Finished===================
+2018-02-09 09:28:46 INFO  TestBase:64 - Clicked on NAvigation Menu
+2018-02-09 09:28:49 INFO  TestBase:67 - Clicked on Manage Job Requisition
+2018-02-09 09:28:50 INFO  TestBase:69 - Clicked on Job Requisition Template
+2018-02-09 09:28:51 INFO  TestBase:74 - Wait
+2018-02-09 09:32:56 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:32:56 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:33:02 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:33:02 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:33:06 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:33:06 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:33:07 INFO  TestBase:68 - Wait
+2018-02-09 09:36:10 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:36:10 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:36:20 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:36:20 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:36:23 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:36:23 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:36:24 INFO  TestBase:68 - Wait
+2018-02-09 09:47:56 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:47:56 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:48:01 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:48:01 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:48:05 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:48:05 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:48:06 INFO  TestBase:68 - Wait
+2018-02-09 09:49:36 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:49:36 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:49:41 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:49:41 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:49:44 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:49:45 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:49:46 INFO  TestBase:68 - Wait
+2018-02-09 09:50:39 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:50:39 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:50:45 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:50:46 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:50:50 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:50:50 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:50:51 INFO  TestBase:68 - Wait
+2018-02-09 09:51:32 INFO  TestBase:52 - =============Starting======================
+2018-02-09 09:51:32 INFO  TestBase:54 - Calling Login Method
+2018-02-09 09:51:37 INFO  TestBase:56 - ==============Finished===================
+2018-02-09 09:51:37 INFO  TestBase:58 - Clicked on NAvigation Menu
+2018-02-09 09:51:41 INFO  TestBase:61 - Clicked on Manage Job Requisition
+2018-02-09 09:51:41 INFO  TestBase:63 - Clicked on Job Requisition Template
+2018-02-09 09:51:42 INFO  TestBase:68 - Wait
+2018-02-09 10:00:44 INFO  TestBase:49 - =============Starting======================
+2018-02-09 10:00:44 INFO  TestBase:51 - Calling Login Method
+2018-02-09 10:00:50 INFO  TestBase:53 - ==============Finished===================
+2018-02-09 10:00:50 INFO  TestBase:55 - Clicked on NAvigation Menu
+2018-02-09 10:00:54 INFO  TestBase:58 - Clicked on Manage Job Requisition
+2018-02-09 10:00:55 INFO  TestBase:60 - Clicked on Job Requisition Template
+2018-02-09 10:00:56 INFO  TestBase:65 - Wait
+2018-02-09 10:12:32 INFO  TC001_Verify_Login_Page:48 - =============Starting======================
+2018-02-09 10:12:32 INFO  TC001_Verify_Login_Page:50 - Calling Login Method
+2018-02-09 10:12:36 INFO  TC001_Verify_Login_Page:52 - ==============Finished===================
+2018-02-09 10:13:59 INFO  TC001_Verify_Login_Page:48 - =============Starting======================
+2018-02-09 10:13:59 INFO  TC001_Verify_Login_Page:50 - Calling Login Method
+2018-02-09 10:14:02 INFO  TC001_Verify_Login_Page:52 - ==============Finished===================
+2018-02-09 10:50:02 INFO  TestBase:51 - =============Starting======================
+2018-02-09 10:50:03 INFO  TestBase:53 - Calling Login Method
+2018-02-09 10:50:10 INFO  TestBase:55 - ==============Finished===================
+2018-02-09 10:50:10 INFO  TestBase:57 - Clicked on NAvigation Menu
+2018-02-09 10:50:13 INFO  TestBase:60 - Clicked on Manage Job Requisition
+2018-02-09 10:50:14 INFO  TestBase:62 - Clicked on Job Requisition Template
+2018-02-09 10:50:15 INFO  TestBase:67 - Wait
+2018-02-14 12:16:25 INFO  TC001_Verify_Login_Page:48 - =============Starting======================
+2018-02-14 12:16:25 INFO  TC001_Verify_Login_Page:50 - Calling Login Method
+2018-02-14 12:16:34 INFO  TC001_Verify_Login_Page:52 - ==============Finished===================
