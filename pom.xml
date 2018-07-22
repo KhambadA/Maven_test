@@ -101,7 +101,21 @@
     <target>1.8</target>
    </configuration>
  </plugin>
-  
   </plugins>
   </build>
+  
+  
+  <distributionManagement>
+    <repository>
+        <id>myMavenrepo.write</id>
+        <url>https://mymavenrepo.com/repo/9LnJ9OzW9hSugfOBzJ1b/</url>
+    </repository>
+</distributionManagement> 
+
+<repositories>
+    <repository>
+        <id>myMavenrepo.read</id>
+        <url>https://mymavenrepo.com/repo/Kih5LcBfcJRHocFhR8oU/</url>
+    </repository>
+</repositories>
 </project>
